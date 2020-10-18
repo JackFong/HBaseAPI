@@ -1,5 +1,5 @@
 # HBaseAPI
-java实现HBaseAPI，建表时循环新建列族、循环插入数据、删表、查表
+java实现HBaseAPI，建表时利用循环结构可新建多条列族、循环插入数据；删表、查表
 代码在HBasePro文件夹中，依赖及插件配置在pom.xml
 
 
